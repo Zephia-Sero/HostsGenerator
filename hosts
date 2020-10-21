@@ -1,0 +1,240 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+# lots of facebook subdomains
+127.0.0.1 extern.facebook.com
+127.0.0.1 api.facebook.com
+127.0.0.1 afa.facebook.com
+127.0.0.1 privacy.facebook.com
+127.0.0.1 ro.facebook.com
+127.0.0.1 ipc.facebook.com
+127.0.0.1 accounts.facebook.com
+127.0.0.1 c.facebook.com
+127.0.0.1 bind.facebook.com
+127.0.0.1 td.facebook.com
+127.0.0.1 citrix.facebook.com
+127.0.0.1 webmail.facebook.com
+127.0.0.1 l.facebook.com
+127.0.0.1 h.facebook.com
+127.0.0.1 smtpin.vvv.facebook.com
+127.0.0.1 time.facebook.com
+127.0.0.1 a.ns.facebook.com
+127.0.0.1 b.ns.facebook.com
+127.0.0.1 www2.facebook.com
+127.0.0.1 hp.facebook.com
+127.0.0.1 bc.facebook.com
+127.0.0.1 wwww.facebook.com
+127.0.0.1 gaming.facebook.com
+127.0.0.1 dns.facebook.com
+127.0.0.1 student.facebook.com
+127.0.0.1 error.facebook.com
+127.0.0.1 it.facebook.com
+127.0.0.1 gps.facebook.com
+127.0.0.1 connect.facebook.com
+127.0.0.1 vip.facebook.com
+127.0.0.1 ads.facebook.com
+127.0.0.1 z.facebook.com
+127.0.0.1 pan.facebook.com
+127.0.0.1 es.facebook.com
+127.0.0.1 developers.facebook.com
+127.0.0.1 blog.facebook.com
+127.0.0.1 maxim.facebook.com
+127.0.0.1 express.facebook.com
+127.0.0.1 fr.facebook.com
+127.0.0.1 mobile.facebook.com
+127.0.0.1 development.facebook.com
+127.0.0.1 mysql.facebook.com
+127.0.0.1 business.facebook.com
+127.0.0.1 new.facebook.com
+127.0.0.1 code.facebook.com
+127.0.0.1 my.facebook.com
+127.0.0.1 t.facebook.com
+127.0.0.1 portal.facebook.com
+127.0.0.1 login.facebook.com
+127.0.0.1 bridge.facebook.com
+127.0.0.1 cgi.facebook.com
+127.0.0.1 free.facebook.com
+127.0.0.1 n.facebook.com
+127.0.0.1 beta.facebook.com
+127.0.0.1 gateway.facebook.com
+127.0.0.1 iso.facebook.com
+127.0.0.1 w.facebook.com
+127.0.0.1 apps.facebook.com
+127.0.0.1 facebook.com
+127.0.0.1 secure.facebook.com
+127.0.0.1 tr.facebook.com
+127.0.0.1 old.facebook.com
+127.0.0.1 discovery.facebook.com
+127.0.0.1 tools.facebook.com
+127.0.0.1 fusion.facebook.com
+127.0.0.1 p.facebook.com
+127.0.0.1 asia.facebook.com
+127.0.0.1 headlines.facebook.com
+127.0.0.1 social.facebook.com
+127.0.0.1 msg.facebook.com
+127.0.0.1 cisco.facebook.com
+127.0.0.1 sos.facebook.com
+127.0.0.1 europe.facebook.com
+127.0.0.1 tm.facebook.com
+127.0.0.1 ibm.facebook.com
+127.0.0.1 shop.facebook.com
+127.0.0.1 premier.facebook.com
+127.0.0.1 upload.facebook.com
+127.0.0.1 intern.facebook.com
+127.0.0.1 light.facebook.com
+127.0.0.1 www.facebook.com
+127.0.0.1 integrity.facebook.com
+127.0.0.1 sim.facebook.com
+127.0.0.1 job.facebook.com
+127.0.0.1 driver.facebook.com
+127.0.0.1 canvas.facebook.com
+127.0.0.1 just.facebook.com
+127.0.0.1 wave.facebook.com
+127.0.0.1 static.facebook.com
+127.0.0.1 web.facebook.com
+127.0.0.1 register.facebook.com
+127.0.0.1 iphone.facebook.com
+127.0.0.1 sap.facebook.com
+127.0.0.1 echo.facebook.com
+127.0.0.1 redhat.facebook.com
+127.0.0.1 apple.facebook.com
+127.0.0.1 switch.facebook.com
+127.0.0.1 vector.facebook.com
+127.0.0.1 ssl.facebook.com
+127.0.0.1 asus.facebook.com
+127.0.0.1 ns.facebook.com
+127.0.0.1 sandbox.facebook.com
+127.0.0.1 about.facebook.com
+127.0.0.1 m.facebook.com
+127.0.0.1 x.facebook.com
+127.0.0.1 d.facebook.com
+127.0.0.1 o.facebook.com
+127.0.0.1 0.facebook.com
+127.0.0.1 c.ns.facebook.com
+127.0.0.1 d.ns.facebook.com
+127.0.0.1 dev.facebook.com
+
+# other shit facebook owns lol
+# [1]
+# Giphy
+127.0.0.1 jenkins.giphy.com
+127.0.0.1 admin.giphy.com
+127.0.0.1 dvr.giphy.com
+127.0.0.1 jobs.giphy.com
+127.0.0.1 blog.giphy.com
+127.0.0.1 support.giphy.com
+127.0.0.1 tv.giphy.com
+127.0.0.1 p.giphy.com
+127.0.0.1 scripts.giphy.com
+127.0.0.1 giphy.com
+127.0.0.1 events.giphy.com
+127.0.0.1 x.giphy.com
+127.0.0.1 upload.giphy.com
+127.0.0.1 api.giphy.com
+127.0.0.1 i.giphy.com
+127.0.0.1 developers.giphy.com
+# Instagram
+127.0.0.1 instagram.com
+127.0.0.1 admin.instagram.com
+127.0.0.1 secure.instagram.com
+127.0.0.1 privacy.instagram.com
+127.0.0.1 black.instagram.com
+127.0.0.1 api.instagram.com
+127.0.0.1 www.instagram.com
+127.0.0.1 survey.instagram.com
+127.0.0.1 community.instagram.com
+127.0.0.1 maps.instagram.com
+127.0.0.1 l.instagram.com
+127.0.0.1 white.instagram.com
+127.0.0.1 i.instagram.com
+127.0.0.1 business.instagram.com
+127.0.0.1 developers.instagram.com
+127.0.0.1 about.instagram.com
+127.0.0.1 blog.instagram.com
+127.0.0.1 upload.instagram.com
+127.0.0.1 m.instagram.com
+127.0.0.1 autodiscover.instagram.com
+# [2]
+# Whatsapp
+127.0.0.1 b.whatsapp.com
+127.0.0.1 www.whatsapp.com
+127.0.0.1 blog.whatsapp.com
+127.0.0.1 v.whatsapp.com
+127.0.0.1 account.whatsapp.com
+127.0.0.1 whatsapp.com
+127.0.0.1 chat.whatsapp.com
+127.0.0.1 autodiscover.whatsapp.com
+127.0.0.1 api.whatsapp.com
+127.0.0.1 web.whatsapp.com
+# Oculus
+127.0.0.1 tickets.oculus.com
+127.0.0.1 www.oculus.com
+127.0.0.1 jobs.oculus.com
+127.0.0.1 static.oculus.com
+127.0.0.1 developers.oculus.com
+127.0.0.1 account.oculus.com
+127.0.0.1 secure.oculus.com
+127.0.0.1 id.oculus.com
+127.0.0.1 shop.oculus.com
+127.0.0.1 forums.oculus.com
+127.0.0.1 www2.oculus.com
+127.0.0.1 autodiscover.oculus.com
+127.0.0.1 oculus.com
+127.0.0.1 business.oculus.com
+127.0.0.1 live.oculus.com
+127.0.0.1 support.oculus.com
+# [3]
+# PrivateCore
+127.0.0.1 privatecore.com
+127.0.0.1 www.privatecore.com
+# Sanzaru
+127.0.0.1 autodiscover.sanzaru.com
+127.0.0.1 vpn.sanzaru.com
+127.0.0.1 mail.sanzaru.com
+127.0.0.1 sanzaru.com
+127.0.0.1 www.sanzaru.com
+127.0.0.1 webmail.sanzaru.com
+127.0.0.1 owa.sanzaru.com
+# [4]
+# Mapillary
+127.0.0.1 ftp.mapillary.com
+127.0.0.1 mapillary.com
+127.0.0.1 jobs.mapillary.com
+127.0.0.1 alerts.mapillary.com
+127.0.0.1 forum.mapillary.com
+127.0.0.1 www.mapillary.com
+127.0.0.1 jenkins.mapillary.com
+127.0.0.1 static.mapillary.com
+127.0.0.1 smtp.mapillary.com
+127.0.0.1 email.mapillary.com
+127.0.0.1 images.mapillary.com
+127.0.0.1 tools.mapillary.com
+127.0.0.1 upload.mapillary.com
+127.0.0.1 shop.mapillary.com
+127.0.0.1 pop.mapillary.com
+127.0.0.1 blog.mapillary.com
+127.0.0.1 a.mapillary.com
+127.0.0.1 files.mapillary.com
+127.0.0.1 calendar.mapillary.com
+# Scape
+127.0.0.1 www.scape.io
+127.0.0.1 scape.io
