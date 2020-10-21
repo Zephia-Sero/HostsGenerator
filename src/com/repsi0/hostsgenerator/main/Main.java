@@ -143,7 +143,7 @@ public class Main {
 					bw.write("# " + s);
 					bw.newLine();
 					for(String s2 : subdomains.get(s)) {
-						bw.write("127.0.0.1      " + s2 + "\n");
+						bw.write("127.0.0.1 " + s2 + "\n");
 					}
 				}
 				bw.flush();
