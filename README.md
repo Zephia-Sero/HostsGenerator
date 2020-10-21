@@ -9,3 +9,13 @@ Uses DuckDuckGo and Wolfram|Alpha APIs to find many subdomains under a user-supp
   - jsoup-1.13.1.jar
 
 Contains lots of code from https://github.com/belsinb/Wolfram so thank you <3
+
+## Using HostsGenerator
+Note that, in order to create your own hosts file using HostsGenerator.jar (or by building it yourself), you will need a Wolfram|Alpha API AppID which requires creating an account here: https://products.wolframalpha.com/api/
+
+Once you have that, create a file titled "appid" (no extension) next to the jar file, and put your App ID on the first line. Anything else in that file will be ignored.
+
+Alternatively, if you run the jar file, it will attempt to create the appid file on its own (but it will be empty).
+
+### Can I use any of the source for my projects?
+Any usage of the source is permitted, within the terms of the included libraries, DuckDuckGo, and Wolfram|Alpha itself.
